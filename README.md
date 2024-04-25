@@ -2,6 +2,9 @@
   
 ## 축구 영상 및 댓글 분석 프로젝트
 
+![ezgif com-resize](https://github.com/Playdata-G-DA35/DA35-3rd-GoalAchievers-SoccerImageCommentsAnalysis/assets/156928146/694c03d2-3a34-4a60-b61e-007d448a7ee0)
+![aus_wc_2024-04-25-10-16-44](https://github.com/Playdata-G-DA35/DA35-3rd-GoalAchievers-SoccerImageCommentsAnalysis/assets/156928146/c88c9e30-6255-4ea2-bf86-c511f502d831)
+
 
 ## 개요
 - 프로젝트 이름: Soccer Image Comments Analysis
@@ -34,6 +37,6 @@
    4. 유튜브는 동영상과 그에 따른 댓글 데이터를 한 번에 수집할 수 있어 이미지 전처리와 자연어 처리 실습에 적합함
 
 ## 산출물
-- [데이터 정제 보고서](데이터 정제 보고서.md)
-- [추출 데이터 보고서](추출 데이터 보고서.md)
+- [데이터 정제 보고서](./데이터 정제 보고서.md)
+- [추출 데이터 보고서](./추출 데이터 보고서.md)
 
