@@ -18,14 +18,13 @@
 ## 프로젝트 소개
   ### A. 주제
   **축구 경기 영상 이미지 전처리 및 댓글 자연어 처리 실습**
-    
-  - 2024년 아시안컵 8강전인 한국 vs 호주 경기의 유튜브 하이라이트 경기 영상
+  - 데이터 : 2024년 아시안컵 8강전인 한국 vs 호주 경기의 유튜브 하이라이트 경기 영상
   - url : https://www.youtube.com/watch?v=kW_z-NMuZIU
     
-  - 축구 경기 영상에 대한 이미지 데이터 전처리
-    image augmentation(이진화, 밝기 변경, 엣지검출) , image segmentation(색으로 이미지 분할) 실습
-  - 경기 영상에 대한 댓글 자연어 처리
-    형태소 단위 토큰화(Okt), 주요 단어 시각화(Plot, WordCloud), TF-IDF 벡터화 
+  1. 축구 경기 영상에 대한 이미지 데이터 전처리
+     image augmentation(이진화, 밝기 변경, 엣지검출) , image segmentation(색으로 이미지 분할) 실습
+  2.  경기 영상에 대한 댓글 자연어 처리
+     형태소 단위 토큰화(Okt), 주요 단어 시각화(Plot, WordCloud), TF-IDF 벡터화 
 
   ### B. 동기 및 목적
    
